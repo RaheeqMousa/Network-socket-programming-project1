@@ -1,0 +1,54 @@
+.RedClass{
+    color:red;
+}
+
+h1{
+    text-align: center;
+}
+
+.ImgClass{
+   justify-content: center;
+   display: flex;
+}
+
+.BoxesClass{    
+    display: flex;
+    justify-content: center;
+    width:1000px;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Box{
+    background-color: rgb(4, 4, 67);
+    width: 470px;;
+    text-align: center;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    color:white;
+    height:fit-content;
+    border-radius: 30px;
+}
+
+.LinkClass{
+    display: flex;
+    justify-content: center;
+}
+
+.ImageClass{
+    padding-top: 10px;
+    border-radius: 30px;
+}
+
+.getImageClass{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width:350px;
+    height:30px;
+    padding: 10px;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
