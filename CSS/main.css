@@ -14,18 +14,14 @@ h1{
 .BoxesClass{    
     display: flex;
     justify-content: center;
-    width:1000px;
     flex-wrap: wrap;
-    margin-left: auto;
-    margin-right: auto;
+    gap:30px 30px;
+    align-items:center;
 }
 
 .Box{
     background-color: rgb(4, 4, 67);
-    width: 470px;;
     text-align: center;
-    margin-right: 30px;
-    margin-bottom: 30px;
     color:white;
     height:fit-content;
     border-radius: 30px;
@@ -34,6 +30,7 @@ h1{
 .LinkClass{
     display: flex;
     justify-content: center;
+    gap: 10px;
 }
 
 .ImageClass{
